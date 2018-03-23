@@ -1,0 +1,145 @@
+
+
+#openFile {
+    -fx-background-image: url("/images/folder.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
+
+
+#playFile:hover {
+    -fx-background-image: url("/hovers/play.png");
+}
+
+#playFile
+{
+    -fx-background-image: url("/hovers/play.png");
+}
+
+#fust:hover {
+    -fx-background-image: url("/hovers/fast.png");
+}
+
+#fuster:hover {
+    -fx-background-image: url("/hovers/faster.png");
+}
+
+#openFile:hover {
+    -fx-background-image: url("/hovers/folder.png");
+}
+
+#slow:hover {
+    -fx-background-image: url("/hovers/low.png");
+}
+
+#slower:hover {
+    -fx-background-image: url("/hovers/lower.png");
+}
+
+#pauseFile:hover {
+    -fx-background-image: url("/hovers/pause.png");
+}
+
+#exitFile:hover {
+    -fx-background-image: url("/hovers/close.png");
+}
+
+#stopFile:hover {
+    -fx-background-image: url("/hovers/stop.png");
+}
+
+
+
+#playFile {
+    -fx-background-image: url("/images/play.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+    -fx-border-color: #C0C0C0;
+}
+
+
+#pauseFile {
+    -fx-background-image: url("/images/pause.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+    -fx-border-color: #C0C0C0;
+}
+
+#stopFile {
+    -fx-background-image: url("/images/stop.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+    -fx-border-color: #C0C0C0;
+}
+
+#slower {
+    -fx-background-image: url("/images/lower.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+    -fx-border-color: #C0C0C0;
+}
+
+#slow {
+    -fx-background-image: url("/images/low.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+    -fx-border-color: #C0C0C0;
+}
+
+#fust {
+    -fx-background-image: url("/images/fast.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+    -fx-border-color: #C0C0C0;
+}
+
+#fuster {
+    -fx-background-image: url("/images/faster.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+    -fx-border-color: #C0C0C0;
+}
+
+#exitFile {
+    -fx-background-image: url("/images/close.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+  
+}
+
+#topHBox {
+    -fx-background-color: #DCDCDC;
+    -fx-border-width: 1 px;
+    -fx-border-color: #A9A9A9;
+
+}
+
+#botVbox {
+    -fx-background-color: #DCDCDC
+}
+
+#seekSlider {
+    -fx-background-color: #A9A9A9
+}
+
+#mainPanel {
+    -fx-background-color: #E6E6FA
+}
